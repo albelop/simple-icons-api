@@ -1,0 +1,29 @@
+{
+  "name": "simple-icons-api",
+  "version": "1.0.0",
+  "description": "Simple Icons API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albelop/simple-icons-api.git"
+  },
+  "keywords": [
+    "simple",
+    "icons",
+    "api",
+    "rest"
+  ],
+  "author": "albelop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albelop/simple-icons-api/issues"
+  },
+  "homepage": "https://github.com/albelop/simple-icons-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "simple-icons": "^1.9.27"
+  }
+}
