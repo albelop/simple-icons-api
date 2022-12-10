@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/albelop/simple-icons-api#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "simple-icons": "^1.9.27"
   }
 }
